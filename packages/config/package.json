@@ -1,0 +1,7 @@
+{
+  "name": "@gbp/config",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": { "./typescript": "./typescript.json" }
+}
