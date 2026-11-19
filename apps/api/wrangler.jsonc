@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "gbp-community-api",
+  "name": "girls-boys-paradise",
   "main": "src/index.ts",
   "compatibility_date": "2025-04-17",
   "compatibility_flags": ["nodejs_compat"],
@@ -9,7 +9,7 @@
     {
       "binding": "DB",
       "database_name": "gbp-community",
-      "database_id": "REPLACE_WITH_CLOUDFLARE_D1_DATABASE_ID",
+      "database_id": "82e73016-a51c-4540-9ac1-f0fb6068879f",
       "migrations_dir": "../../packages/database/migrations"
     }
   ],
